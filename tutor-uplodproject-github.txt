@@ -2,7 +2,7 @@ cara pertama
 
 git init
 git add .
-git commit -M "pesan commit"
+git commit -m "pesan commit"
 git brach -M main
 git remot (name remote )
-git push origin main 
+git push -u origin main 
